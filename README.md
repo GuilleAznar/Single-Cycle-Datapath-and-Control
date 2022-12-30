@@ -1,1 +1,3 @@
 # Single-Cycle-Datapath-and-Control
+
+For this project I needed to make a functional processor capable of performing some of the basic operations that are done in the assembly language such as LDUR, STUR, ADD, SUB, and CBZ. Other operations are optional and were not included due to the time constraints for this project. I did the entire design in VHDL using component instantiations to make the hierarchy of the design much more elegant and simple. Despite most of my design compiling well, I believe I might have messed up in some modules which led to me not being able to simulate and test the design with my desired testbench. Still, I will include the code to the modules that I did end up writing.
